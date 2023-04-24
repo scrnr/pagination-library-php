@@ -1,0 +1,20 @@
+{
+    "name": "scrnr/pagination",
+    "description": "Pagination library in PHP",
+    "type": "library",
+    "require": {
+        "php": ">=8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Scrnr\\Pagination\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksei",
+            "email": "130318174+scrnr@users.noreply.github.com"
+        }
+    ]
+}
