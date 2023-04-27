@@ -1,7 +1,9 @@
 {
     "name": "scrnr/pagination",
     "description": "Pagination library in PHP",
+    "keywords": ["page", "paginator", "pagination"],
     "type": "library",
+    "homepage": "https://github.com/scrnr/pagination-library-php",
     "require": {
         "php": ">=8.0"
     },
